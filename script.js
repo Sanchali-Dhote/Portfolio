@@ -97,15 +97,12 @@ const typing = document.getElementById("typing");
 
 const words = [
 
-    "Aspiring Data Analyst",
-
-    "Python Developer",
-
-    "Power BI Enthusiast",
-
-    "SQL Learner",
-
-    "MCA (AI & ML) Student"
+    "MCA (AI & ML) Student",
+    "AI & Machine Learning Enthusiast",
+    "Data Analyst",
+    "Python Programmer",
+    "Software Developer",
+    "SQL & Database Enthusiast"
 
 ];
 
